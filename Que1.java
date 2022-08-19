@@ -4,7 +4,7 @@ public class Que1
 {
 	public static void main(String[] args)
 	{
-		String name="Hitesh";
+		String name="Hitesh Patil";
 		System.out.println("Hello\n"+name);
 	}
 }
